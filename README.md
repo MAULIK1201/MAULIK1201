@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning something that would help me
 - 📫 How to reach me --> maulikadhyaru@gmail.com
-- LeectCode: https://leetcode.com/u/MaulikAdhyaru/
+- LeetCode: https://leetcode.com/u/MaulikAdhyaru/
 - CodeForces: https://codeforces.com/profile/MaulikAdhyaru
 <!---
 MAULIK1201/MAULIK1201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
